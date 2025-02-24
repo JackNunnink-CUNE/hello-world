@@ -1,2 +1,1 @@
-# hello-world
-Setting up my account
+# 👋 Hi, I'm Jack Nunnink
